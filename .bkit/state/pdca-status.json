@@ -1,0 +1,49 @@
+{
+  "version": "2.0",
+  "lastUpdated": "2026-04-17T00:03:28.476Z",
+  "activeFeatures": {
+    "gemma4": {
+      "phase": "plan",
+      "status": "completed",
+      "updatedAt": "2026-04-16T00:00:00.000Z"
+    }
+  },
+  "primaryFeature": null,
+  "archivedFeatures": {},
+  "pipeline": {
+    "currentPhase": 1,
+    "level": "Starter",
+    "phaseHistory": []
+  },
+  "session": {
+    "startedAt": "2026-04-16T01:01:55.113Z",
+    "onboardingCompleted": false,
+    "lastActivity": "2026-04-16T09:00:58.944Z"
+  },
+  "history": [
+    {
+      "timestamp": "2026-04-16T01:01:55.113Z",
+      "action": "session_end",
+      "feature": null,
+      "details": "Session ended"
+    },
+    {
+      "timestamp": "2026-04-16T01:01:55.826Z",
+      "action": "session_end",
+      "feature": null,
+      "details": "Session ended"
+    },
+    {
+      "timestamp": "2026-04-16T09:00:58.613Z",
+      "action": "session_end",
+      "feature": null,
+      "details": "Session ended"
+    },
+    {
+      "timestamp": "2026-04-16T09:00:58.944Z",
+      "action": "session_end",
+      "feature": null,
+      "details": "Session ended"
+    }
+  ]
+}
